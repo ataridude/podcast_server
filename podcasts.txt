@@ -1,0 +1,50 @@
+#all:All of my podcasts combined:apple.com:Audio/all:99999:Y:Y::All of my podcasts combined
+nbc:Neal Boortz Commentaries:boortz.com:Audio/NBC:14:Y:Y::Neal Boortz Commentaries
+bible:Bible in a Year:biblegateway.com:Audio/Bible/daniel:14:Y:Y::Bible in a Year
+bible-steve:Steve's Bible in a Year:biblegateway.com:Audio/Bible/steve:14:Y:Y::Bible in a Year
+proverbs:Daily Proverb:biblegateway.com:Audio/Daily_Proverb:14:Y:Y::Daily Proverb
+misc:Miscellaneous podcasts:apple.com:Audio/Misc:99999:Y:Y::Miscellaneous podcasts
+#
+fl:Family Life:familylife.com:Audio/FamilyLife:99999:Y:Y::FamilyLife
+mlj:Martyn Lloyd-Jones Sermons:mljtrust.org:Audio/Sermons/MLJ:365:Y:Y::MLJ Sermons
+apc:Ambassador Presbyterian Church Sermons:ambassadorpres.org:Audio/Sermons/Ambassador:365:Y:Y::APC Sermons
+sf:Sinclair Ferguson Sermons:sermonaudio.com:Audio/Sermons/Sinclair_Ferguson:365:Y:Y::Sinclair Ferguson Sermons
+#
+#bourne2:Bourne 2 - The Bourne Supremacy:bourne.com:Audio/Books/Series/2-BourneSupremacy:99999:Y:Y::Bourne Supremacy
+#bourne3:Bourne 3 - The Bourne Ultimatum:bourne.com:Audio/Books/Series/3-BourneUltimatum:99999:Y:Y::Bourne Ultimatum
+#wsog:Wrong Side of Goodbye:michaelconnelly.com:Audio/Books/Connelly-WSOG:99999:Y:Y::Wrong Side of Goodbye
+#
+#lean:Two Second Lean:apple.com:Audio/Books/2-second-lean:99999:Y:Y::2-Second Lean
+#tlwhnt:The Leader Who Had No Title:apple.com:Audio/Books/SelfHelp/The_Leader_Who_Had_No_Title:99999:Y:Y::The Leader Who Had No Title
+#wgyh:What Got You Here Won't Get You There:apple.com:Audio/Books/SelfHelp/What_Got_You_Here_Wont_Get_You_There:99999:Y:Y::What Got You Here Won't Get You There
+#7habits:The 7 Habits Of Highly Successful People:apple.com:Audio/Books/SelfHelp/The_7_Habits_Of_Highly_Successful_People:99999:Y:Y::The 7 Habits Of Highly Successful People
+#cw:Don't Know Much About The Civil War:apple.com:Audio/Books/CivilWar:99999:Y:Y::Don't Know Much About The Civil War
+#as:Atlas Shrugged:apple.com:Audio/Books/Atlas_Shrugged:99999:Y:Y::Atlas Shrugged
+#
+#
+miv:Murder In Vegas:michaelconnelly.com:Audio/Books/MC_MurderInVegas:99999:Y:Y::Murder In Vegas
+rtt:Redeeming The Time:titus2.com:Audio/Books/RedeemingTheTime:9999999:Y:Y::Redeeming The Time
+bourne1:Bourne 1 - The Bourne Identity:bourne.com:Audio/Books/1-BourneIdentity:99999:Y:Y::Bourne Identity
+dg:Desiring God:apple.com:Audio/Books/Desiring_God:99999:Y:Y::Desiring God
+f1:Ken Follette:apple.com:Audio/Books/1-Follette-PillarsOfTheEarth:999999:Y:Y::Pillars Of The Earth
+tgog:The Gods of Guilt:michaelconnelly.com:Audio/Books/Connelly-GodsOfGuilt:99999:Y:Y::The Gods of Guilt
+tbv:The Brass Verdict:michaelconnelly.com:Audio/Books/Connelly-Haller2-TheBrassVerdict:99999:Y:Y::The Brass Verdict
+ls:Leadership:apple.com:Audio/Books/Leadership:99999:Y:Y::Leadership
+aps:Ambassador Presbyterian Sermons:ambassadorpres.org:Audio/APC_Sermons_Test:99999:Y:Y::Ambassador Presbyterian Sermons
+#
+wip:Wilkins On Parenting:www.tvcresources.net/resource-library/classes/by-topic/family-discipleship:Audio/Wilkins_on_parenting:99999:Y:Y::Wilkins On Parenting
+#
+1984:1984:www.apple.com:Audio/Books/1984:99999:Y:Y::1984
+af:Animal Farm:www.apple.com:Audio/Books/Animal_Farm:99999:Y:Y::Animal Farm
+do:Do over:www.apple.com:Audio/Books/Do_Over:99999:Y:Y::Do Over
+tfr:Teaching From Rest:classicalacademicpress.com:Audio/tfr:99999:Y:Y::Teaching From Rest
+n13:NCHE:nche.com:Audio/nche2013:99999:Y:Y::NCHE
+rmdk:Raising A Modern-Day Knight:unixdude.net:Audio/Books/RaisingAModernDayKnight:99999:Y:Y::RMDK
+admtn:A Darkness More Than Night:unixdude.net:Audio/Books/ADMTN:99999:Y:Y::ADMTN
+#
+lstory:Love Story:unixdude.net:Audio/Books/Love_Story:99999:Y:Y::Love Story
+10:Woman in Cabin 10:unixdude.net:Audio/Books/Woman_In_Cabin_10:99999:Y:Y::Woman in Cabin 10
+ec:Educated:unixdude.net:Audio/Books/Educated:99999:Y:Y::Educated
+ab:Ambush:unixdude.net:Audio/Books/Ambush:99999:Y:Y::Ambush
+cl:Codename Lise:unixdude.net:Audio/Books/Codename_Lise:99999:Y:Y::Codename Lise
+pbc:Productivity Boot Camp:unixdude.net:Audio/PBC:99999:Y:Y::Productivity Boot Camp

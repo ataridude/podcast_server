@@ -1,0 +1,16 @@
+<ASX version = "3.0">
+
+    <Entry>
+	<TITLE>WJR-AM 760</TITLE>
+	<MoreInfo href = "http://www.WJR.com" />
+	<AUTHOR>760 WJR</AUTHOR>
+	<COPYRIGHT>2005</COPYRIGHT>
+
+	<ABSTRACT>Click here to visit the WJR Website</ABSTRACT>
+
+<!-- This is a comment.  Change the following path to point to your ASF -->
+        <Ref href = "mms://wjr.onlinetech.net/wjr" />
+    </Entry>
+
+
+</ASX>

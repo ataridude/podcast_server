@@ -1,0 +1,5 @@
+AuthUserFile /usr/local/www/apache24/htpasswd
+AuthGroupFile /dev/null
+Authtype Basic
+AuthName "podcasts.unixdude.net"
+Require valid-user

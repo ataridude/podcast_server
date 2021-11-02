@@ -1,0 +1,12 @@
+<ASX version = "3.0">
+<TITLE>WMAL-AM 630 NewsTalk</TITLE>
+    <ENTRY>
+	<TITLE>WMAL-AM 630 NewsTalk</TITLE>
+	<AUTHOR>630 WMAL</AUTHOR>
+	<COPYRIGHT>(c)2004 WMAL</COPYRIGHT>
+        <REF HREF = "http://abcrad.wm.llnwd.net/abcrad_wmal" />
+	<REF HREF = "mms://abcrad.wm.llnwd.net/abcrad_wmal" />
+	<DURATION VALUE = "3:00:00" />
+    </ENTRY>
+
+</ASX>

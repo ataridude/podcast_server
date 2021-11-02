@@ -1,0 +1,7 @@
+		<item>
+			<title><?php echo $title; ?> - <?php echo $files[$i]; ?></title>
+			<description><?php echo $title; ?> - <?php echo $files[$i]; ?></description>
+			<enclosure url="<?php echo $url; ?>" length="<?php echo $size; ?>" type="audio/<?php echo $filetype; ?>"/>
+			<pubDate><?php echo $datestring; ?></pubDate>
+			<guid><?php echo $guid; ?></guid>
+		</item>
